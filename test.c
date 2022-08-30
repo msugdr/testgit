@@ -3,6 +3,6 @@
 //   $ ./test
 #include <stdio.h>
 int main(void) {
-   print("Hello, from Cby YouNa.\n");
+   printf("Hello, from Cby YouNa.\n");
    return 0;
 }
